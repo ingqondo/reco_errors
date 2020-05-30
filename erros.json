@@ -1,0 +1,7 @@
+[
+{"code": 1, "text": "Token expired"},
+{"code": 2, "text": "Token error"},
+{"code": 3, "text": "Point execution time"},
+{"code": 4, "text": "Auth token invalid"},
+{"code": 5, "text": "Service not found in this namespace"},
+]
