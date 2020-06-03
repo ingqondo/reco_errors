@@ -5,4 +5,5 @@
 {"code": 4, "text": "Auth token invalid"},
 {"code": 5, "text": "Service not found in this namespace"},
 {"code": 6, "text": "Command executor not found in this service"},
+{"code": 7, "text": "All points are down"}
 ]
