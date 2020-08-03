@@ -13,5 +13,6 @@
   {"code": 12, "text": "point token invalid"},
   {"code": 13, "text": "only for users"},
   {"code": 14, "text": "only for guests"},
-  {"code": 15, "text": "command execution time expired"}
+  {"code": 15, "text": "command execution time expired"},
+  {"code": 16, "text": "synchronous request cannot be executed"}
 ]
