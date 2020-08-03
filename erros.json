@@ -9,7 +9,7 @@
   {"code": 8, "text": "no service available"},
   {"code": 9, "text": "command body too large"},
   {"code": 10, "text": "process destination error"},
-  {"code": 11, "text": "max execution time"},
+  {"code": 11, "text": "process execution time is over"},
   {"code": 12, "text": "point token invalid"},
   {"code": 13, "text": "only for users"},
   {"code": 14, "text": "only for guests"},
