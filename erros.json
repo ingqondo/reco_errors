@@ -9,5 +9,6 @@
   {"code": 8, "text": "no service available"},
   {"code": 9, "text": "command body too large"},
   {"code": 10, "text": "process destination error"},
-  {"code": 11, "text": "max execution time"}
+  {"code": 11, "text": "max execution time"},
+  {"code": 12, "text": "point token invalid"}
 ]
