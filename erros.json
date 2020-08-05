@@ -15,5 +15,7 @@
   {"code": 14, "text": "only for guests"},
   {"code": 15, "text": "command execution time expired"},
   {"code": 16, "text": "synchronous request cannot be executed"},
-  {"code": 17, "text": "no client ip address"}
+  {"code": 17, "text": "no client ip address"},
+  {"code": 18, "text": "login invalid"},
+  {"code": 19, "text": "password too short"}
 ]
