@@ -17,5 +17,6 @@
   {"code": 16, "text": "synchronous request cannot be executed"},
   {"code": 17, "text": "no client ip address"},
   {"code": 18, "text": "login invalid"},
-  {"code": 19, "text": "password too short"}
+  {"code": 19, "text": "password too short"},
+  {"code": 20, "text": "account type must be phone or email"}
 ]
