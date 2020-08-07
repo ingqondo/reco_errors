@@ -20,5 +20,6 @@
   {"code": 19, "text": "password too short"},
   {"code": 20, "text": "account type must be phone or email"},
   {"code": 21, "text": "login used"},
-  {"code": 22, "text": "wrong email"}
+  {"code": 22, "text": "wrong email"},
+  {"code": 23, "text": "refresh token invalid"}
 ]
