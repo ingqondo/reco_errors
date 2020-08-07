@@ -19,5 +19,6 @@
   {"code": 18, "text": "login invalid"},
   {"code": 19, "text": "password too short"},
   {"code": 20, "text": "account type must be phone or email"},
-  {"code": 21, "text": "login used"}
+  {"code": 21, "text": "login used"},
+  {"code": 22, "text": "wrong email"}
 ]
