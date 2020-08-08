@@ -21,5 +21,6 @@
   {"code": 20, "text": "account type must be phone or email"},
   {"code": 21, "text": "login used"},
   {"code": 22, "text": "wrong email"},
-  {"code": 23, "text": "refresh token invalid"}
+  {"code": 23, "text": "refresh token invalid"},
+  {"code": 24, "text": "limit failed attempts"}
 ]
