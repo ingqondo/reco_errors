@@ -24,5 +24,6 @@
   {"code": 23, "text": "refresh token invalid"},
   {"code": 24, "text": "limit failed attempts"},
   {"code": 25, "text": "wrong password"},
-  {"code": 26, "text": "fast login hash invalid"}
+  {"code": 26, "text": "fast login hash invalid"},
+  {"code": 27, "text": "contact invalid"}
 ]
