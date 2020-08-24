@@ -1,8 +1,8 @@
 [
   {"code": 1, "text": "bad command"},
   {"code": 2, "text": "access denied"},
-  {"code": 3, "text": "token expired"},
-  {"code": 4, "text": "token expired"},
+  {"code": 3, "text": "token expired", "user": "access.jwtTokenLogin.call"},
+  {"code": 4, "text": "token expired", "user": "access.jwtTokenLogin.call"},
   {"code": 5, "text": "namespace not allowed"},
   {"code": 6, "text": "no implementation"},
   {"code": 7, "text": "no service available"},
