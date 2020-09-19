@@ -1,4 +1,6 @@
 [
   {"code": 1, "text": "max execution time"},
-  {"code": 2, "text": "command not supported"}
+  {"code": 2, "text": "command not supported"},
+  {"code": 3, "text": "access denied"},
+  {"code": 4, "text": "no worker available"}
 ]
