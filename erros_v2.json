@@ -1,3 +1,4 @@
 [
-  {"code": 1, text: "max execution time"}
+  {"code": 1, "text": "max execution time"},
+  {"code": 2, "text": "command not supported"}
 ]
