@@ -1,7 +1,7 @@
 [
-  {"code": 1, "text": "max execution time"},
-  {"code": 2, "text": "command not supported"},
-  {"code": 3, "text": "access denied"},
-  {"code": 4, "text": "no worker available"},
-  {"code": 5, "text": "remote server busy"}
+  {"code": 1, "text": "max execution time", "owner": "gateway", "retry": false},
+  {"code": 2, "text": "command not supported", "owner": "gateway", "retry": false},
+  {"code": 3, "text": "access denied", "owner": "gateway", "retry": false},
+  {"code": 4, "text": "no worker available", "owner": "gateway", "retry": false},
+  {"code": 5, "text": "remote server busy", "owner": "gateway", "retry": false}
 ]
