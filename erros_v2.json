@@ -3,5 +3,6 @@
   {"code": 2, "text": "command not supported", "owner": "gateway", "retry": false},
   {"code": 3, "text": "access denied", "owner": "gateway", "retry": false},
   {"code": 4, "text": "no worker available", "owner": "gateway", "retry": false},
-  {"code": 5, "text": "remote server busy", "owner": "gateway", "retry": false}
+  {"code": 5, "text": "remote server busy", "owner": "gateway", "retry": false},
+  {"code": 6, "text": "invalid message format", "owner": "chat", "retry": false}
 ]
